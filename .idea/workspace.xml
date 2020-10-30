@@ -14,15 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ae700b5-8ad6-419a-b8e2-838533a41465" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/People/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/People/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Planets/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Planets/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,9 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1jbc8FbpUwTudsaKRkTXu9PmOYY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -97,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604076070574</updated>
       <workItem from="1604076071713" duration="1359000" />
-      <workItem from="1604077941018" duration="1179000" />
+      <workItem from="1604077941018" duration="5409000" />
     </task>
     <servers />
   </component>
@@ -120,22 +120,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="385" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604076845755" />
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1604079193604">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom" timestamp="1604082623599">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604079193604" />
-    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1604079193600">
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604082623599" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center" timestamp="1604082623597">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604079193600" />
-    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1604079193598">
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604082623597" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left" timestamp="1604082623596">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604079193598" />
-    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1604079193603">
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604082623596" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right" timestamp="1604082623598">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604079193603" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.0.1440.900/-233.-1080.1920.1080@0.0.1440.900" timestamp="1604082623598" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1604076633351">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
